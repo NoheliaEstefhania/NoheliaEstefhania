@@ -1,4 +1,9 @@
-# 💫 About Me:
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">💫 About Me:</h1></summary>
+  </ul>
+</div>
+
 🚀 Systems Engineering student at San Agustin University (UNSA) with a degree in Accounting.<br>
 🌐 Collaborations: Open to working on both frontend and backend challenges. I thrive in team environments and have participated in academic exchanges in Colombia and Chile.<br>
 📘 Current Focus: Education and technology.<br>
@@ -8,7 +13,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h1 style="display: inline-block">Technologies That I Know👨🏻‍💻</h1></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -33,7 +38,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h1 style="display: inline-block">Connect With Me🤝</h1></summary>
   </ul>
 </div>
 
