@@ -17,11 +17,11 @@
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode, py,java,js,cpp,docker,linux, github,vue, html, css, mysql,nodejs,postman,tailwind,figma,discord,unity, android" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,postgres,figma,gitlab,github,html,java,js,linux,mysql,nodejs,postman,py,vue,tailwind,vscode" />
+    </a>
+  </p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NoheliaEstefhania&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
