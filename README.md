@@ -19,7 +19,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,postgres,figma,firebase,github,html,java,js,linux,mysql,nodejs,postman,py,react,tailwind,vscode, js" />
+    <img src="https://skillicons.dev/icons?i=git,vscode, py,java,js,cpp,docker,linux, github,vue, html, css, mysql,nodejs,postman,tailwind,figma,discord,unity, android" />
   </a>
 </p>
 
